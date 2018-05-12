@@ -1,4 +1,5 @@
 _repo: The-Mysterious-Stranger-A-Romance_50109
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Wyeth, N. C. (Newell Convers)
@@ -10,6 +11,9 @@ contributor:
     gutenberg_agent_id: '32841'
     url: http://www.gutenberg.org/2009/agents/32841
     wikipedia: http://en.wikipedia.org/wiki/N._C._Wyeth
+covers:
+- cover_type: archival
+  image_path: 50109-h/images/cover.jpg
 creator:
   author:
     agent_name: Twain, Mark
@@ -22,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50109#The-Mysterious-Stranger-A-Romance
 gutenberg_issued: '2015-10-01'
 gutenberg_type: Text
 identifiers:
